@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4998&pause=1000&color=B9D600&width=435&lines=Hello+I'm+Yasmim!)](https://git.io/typing-svg)
 
 
-## `​> Sobre Mim:`
+## 👩🏻‍💻 Sobre Mim:
 
-Me chamo Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Front-end no Instituto PROA. Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
+Olá! Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo.
+Atualmente, estou cursando Front-end no Instituto PROA.
+Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
 
-### `> Linguagens e Tecnologia`
+## 🤖 Linguagens e Tecnologias
 
 <img 
   align="left"
@@ -35,7 +37,7 @@ Me chamo Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
 <br/>
 <br/>
 
-### `> Estatísticas`
+## 📊 Estatísticas
 
 <p>
   <img
