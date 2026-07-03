@@ -14,7 +14,7 @@
 
 <div align="center">
   <img
-    width= "200px"
+    width= "100px"
     src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"/>
 </div>
 
@@ -26,10 +26,10 @@
 
 </div>
 
-<p align="center"> 
+<p align: center;">
   
 Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Front-end no Instituto PROA. Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
-
+  
 </p>
 
 <br/>
@@ -40,38 +40,37 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   
   <div/>
 
-<div align= "center"> 
-
+<p align= "center"> 
   
 <img 
   alt="HTML5"
   title="HTML5"
   width= "30px"
-  style= "padding: 10px;"
+  style= "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
   alt="CSS"
   title="CSS"
   width= "30px"
-  style= "padding: 10px;"
+  style= "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img
   alt="Figma"
   title="Figma"
   width= "30px"
-  style= "padding: 10px;"
+  style= "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
-  </div>
+  </p>
 
-<br/>
 <br/>
 
 <div align="center"> 
   
   # 📊 Estatísticas 
+  
   <div/>
 
 <br/>
@@ -81,7 +80,7 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   align="left"
   alt="GitHub Stats"
   Height="200"
-  style= "padding-right: 10px;"
+  style= "padding-right: 12px;"
   src= "https://github-stats-extended.vercel.app/api?username=yasmimvd&show_icons=true&theme=tokyonight"
   />
 </p>
