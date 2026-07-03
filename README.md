@@ -1,43 +1,80 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4998&pause=1000&color=B9D600&width=435&lines=Hello+I'm+Yasmim!)](https://git.io/typing-svg)
+<div align="center">
+  
+  # Hi! I'm Yasmim 👋🏻
+  
+</div>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4998&pause=1000&color=B9D600&center=true&width=435&lines=₊˚ʚ+Welcome+to+my+profile!+₊˚✧)](https://git.io/typing-svg)
+  
+</div>
 
-## 👩🏻‍💻 Sobre Mim:
+<br/>
 
-Olá! Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo.
-Atualmente, estou cursando Front-end no Instituto PROA.
-Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
+<div align="center">
+  <img
+    width= "250px"
+    src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"/>
+</div>
 
-## 🤖 Linguagens e Tecnologias
+<br/>
 
+<div align="center">
+  
+# 🍵 Sobre mim 
+
+</div>
+
+<p align="center"> 
+  
+Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Front-end no Instituto PROA. Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
+
+</p>
+
+<br/>
+
+<div align="center"> 
+  
+  # 🌐 Linguagens e Ferramentas 
+  
+  <div/>
+
+<div align= "center"> 
+
+  
 <img 
-  align="left"
   alt="HTML5"
   title="HTML5"
   width= "30px"
-   style= "padding-right: 10px;"
+  style= "padding: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
-  align="left"
   alt="CSS"
   title="CSS"
   width= "30px"
-  style= "padding-right: 10px;"
+  style= "padding: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img
-  align="left"
   alt="Figma"
   title="Figma"
   width= "30px"
-  style= "padding-right: 10px;"
+  style= "padding: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
+  </div>
 
 <br/>
 <br/>
 
-## 📊 Estatísticas
+<div align="center"> 
+  
+  # 📊 Estatísticas 
+  <div/>
+
+<br/>
 
 <p>
   <img
