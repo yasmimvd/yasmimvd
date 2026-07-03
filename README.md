@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4998&pause=1000&color=B9D600&center=true&width=435&lines=₊˚ʚ+Welcome+to+my+profile!+₊˚✧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4998&pause=1000&color=B9D600&center=true&width=435&lines=₊˚ʚ+Welcome+to+my+profile!+₊˚✧)](https://git.io/typing-svg)
   
 </div>
 
@@ -25,13 +25,9 @@
 # 🍵 Sobre mim 
 
 </div>
-
-<p align: center;">
   
 Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Front-end no Instituto PROA. Tenho interesse em aprender novas tecnologias e construir um portfólio profissional.
   
-</p>
-
 <br/>
 
 <div align="center"> 
@@ -63,6 +59,7 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   style= "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
+  
   </p>
 
 <br/>
@@ -72,9 +69,7 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   # 📊 Estatísticas 
   
   <div/>
-
-<br/>
-
+    
 <p>
   <img
   align="left"
