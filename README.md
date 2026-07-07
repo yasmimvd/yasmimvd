@@ -35,32 +35,41 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   # 🌐 Linguagens e Ferramentas 
   
   <div/>
-
-<p align= "center"> 
   
 <img 
   alt="HTML5"
   title="HTML5"
-  width= "30px"
-  style= "padding-right: 10px;"
+  width= "35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
+  &nbsp;&nbsp;
   <img 
   alt="CSS"
   title="CSS"
-  width= "30px"
-  style= "padding-right: 10px;"
+  width= "35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
+  &nbsp;&nbsp;
+  <img 
+  alt="JavaScript"
+  title="JavaScript"
+  width= "35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  &nbsp;&nbsp;
+  <img
+  alt="Git"
+  title="Git"
+  width= "35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+  &nbsp;&nbsp;
   <img
   alt="Figma"
   title="Figma"
-  width= "30px"
-  style= "padding-right: 10px;"
+  width= "35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
-  
-  </p>
 
 <br/>
 
