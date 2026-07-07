@@ -76,7 +76,7 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   alt="GitHub Stats"
   Height="200"
   style= "padding-right: 12px;"
-  src= "https://github-stats-extended.vercel.app/api?username=yasmimvd&show_icons=true&theme=tokyonight"
+  src= "https://github-stats-extended.vercel.app/api?username=yasmimvd&show_icons=true&theme=tokyonight&cache_seconds=0"
   />
 </p>
 
@@ -85,6 +85,6 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
   align="left"
   alt="GitHub Stats"
   Height="200"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasmimvd&layout=compact&theme=tokyonight"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasmimvd&layout=compact&theme=tokyonight&cache_seconds=0"
   />
 </p>
