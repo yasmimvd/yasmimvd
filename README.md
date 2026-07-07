@@ -39,35 +39,35 @@ Eu sou a Yasmim, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cu
 <img 
   alt="HTML5"
   title="HTML5"
-  width= "35px"
+  width= "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   &nbsp;&nbsp;
   <img 
   alt="CSS"
   title="CSS"
-  width= "35px"
+  width= "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   &nbsp;&nbsp;
   <img 
   alt="JavaScript"
   title="JavaScript"
-  width= "35px"
+  width= "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   &nbsp;&nbsp;
   <img
   alt="Git"
   title="Git"
-  width= "35px"
+  width= "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
   &nbsp;&nbsp;
   <img
   alt="Figma"
   title="Figma"
-  width= "35px"
+  width= "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 
